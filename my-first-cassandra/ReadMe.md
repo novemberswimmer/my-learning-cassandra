@@ -1,4 +1,7 @@
 #My First Spring Reactor Cassandra App
+This sample app focuses on how to run CRUD query using Cassandra database.  This
+does not show good data modeling using Cassandra. I'm still at lost with how to
+come up with a good Cassandra data model
 
 ## References
 This application is based on the following tutorials:
